@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Just Redirect
- * Plugin URI:  https://example.com
+ * Plugin URI:  https://github.com/karki-dennis/just-redirect
  * Description: A simple plugin that performs URL redirects with an admin settings page to manage, download the redirect rules, and clean up on uninstall. Now supports HTTP Status Code option.
  * Version:     1.3
  * Author:      Your Name
